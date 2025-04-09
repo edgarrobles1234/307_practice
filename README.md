@@ -1,4 +1,4 @@
-### Testing merging
+# Testing merging
 
 Making a change
 
