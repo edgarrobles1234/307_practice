@@ -1,7 +1,7 @@
 # Testing merging
 
-Making a change
+- Making a change
 
-another change
+- another change
 
-another change2 
+### another change2 
